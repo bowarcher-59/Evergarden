@@ -202,4 +202,4 @@ This repository serves as the official landing page for Evergarden. The software
 **Get the most recent version of Evergarden today!**
 
 ---
-**Last updated:** 2026-11-13 20:14:37 UTC
+**Last updated:** 2026-11-14 01:12:07 UTC
